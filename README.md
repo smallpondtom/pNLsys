@@ -53,7 +53,7 @@ duffing system, bifurcation, nonlinear approximation methods, etc.
 <h3 align="center"> Python + Nonlinear Systems = pNLsys</h3>
 
 <div align="center">
-  <a href="https://github.com/smallpondtom/pnlsys/plots/juliaSetCompressed.gif">
+  <a href="https://github.com/smallpondtom/pNLsys/blob/main/plots/juliaSetCompressed.gif">
     <!-- Please provide path to your logo here -->
     <img src="plots/juliaSetCompressed.gif" alt="juliaset" width="800" height="450">
   </a>
@@ -159,7 +159,7 @@ an approximation indicated by another function argument using Sympy and return t
 equation.
 
 <div align="center">
-  <a href="https://github.com/smallpondtom/pnlsys/docs/images/latex1.png">
+  <a href="https://github.com/smallpondtom/pNLsys/blob/main/docs/images/latex1.png">
     <img src="docs/images/latex1.png" alt="latex1" width="300" height="100">
   </a>
 </div>
@@ -175,6 +175,15 @@ See the [open issues](https://github.com/smallpondtom/pnlsys/issues) for a list 
 - [Top Feature Requests](https://github.com/smallpondtom/pnlsys/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
 - [Top Bugs](https://github.com/smallpondtom/pnlsys/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
 - [Newest Bugs](https://github.com/smallpondtom/pnlsys/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+
+</br>
+<div align="center">
+  <a href="https://github.com/smallpondtom/pNLsys/blob/main/plots/MandelBrot_sinusoid.jpg">
+    <img src="plots/MandelBrot_sinusoid.jpg" alt="MandelBrot_sinusoid" width="600" >
+  </a>
+</div>
+</br>
+
 
 ## Support
 
