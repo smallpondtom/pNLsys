@@ -9,7 +9,7 @@ To set up a development environment, please follow these steps:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/smallpondtom/pnlsys
+   git clone https://github.com/smallpondtom/pNLsys.git
    ```
 
 2. Use a python environment (preferable) to manage modules like anaconda.
